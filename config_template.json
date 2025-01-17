@@ -1,0 +1,8 @@
+{
+    "news_api_key": "your_newsapi_key_here",
+    "twitter_api_key": "your_twitter_api_key_here",
+    "twitter_api_secret": "your_twitter_api_secret_here",
+    "reddit_api_key": "your_reddit_api_key_here",
+    "google_nlp_key": "your_google_nlp_key_here",
+    "openstreetmap_url": "https://api.openstreetmap.org"
+}
