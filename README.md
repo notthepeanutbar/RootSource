@@ -44,7 +44,6 @@ Copy the `config_template.json` file, rename it to `config.json`, and fill in yo
     "openstreetmap_url": "https://api.openstreetmap.org"
 }
 ```
-The `config.json` file should not be committed or pushed to GitHub.
 
 ### **4. Run Examples**
 Start exploring the framework by running the example script:
